@@ -30,7 +30,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econome
  <details>
   <summary markdown="span"><font color="blue">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model(Draft coming soon)</font>
     
-  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
+  <font color="black"><b><i></i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
