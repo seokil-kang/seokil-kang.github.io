@@ -12,7 +12,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econome
 ### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
 <br>
-<font color="scarlet"><small>&diams; Click title to see abstract.</small></font>
+<font color="violet"><small>&diams; Click title to see abstract.</small></font>
 
 ### Working Papers
 <details>
