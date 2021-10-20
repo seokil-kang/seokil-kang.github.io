@@ -14,9 +14,8 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econome
 <details>
   <summary markdown="span"><font color="blue">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper, Draft coming soon)</font> 
     
-  with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
   
-  <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
+  
   
   | **Abstract**          |
   |:---------------------------|
