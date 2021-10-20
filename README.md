@@ -1,18 +1,18 @@
 {::options parse_block_html="true" /}
 
-### ShinHyuck Kang
+### Seokil Kang
 
-Email: shinkang@kli.re.kr or shinkangecon@gmail.com
+Email: sk86@iu.edu
 
-Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
+Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econometrics
 
-### [Curriculum Vitae (PDF)](CV_Shin.pdf)
+### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
 <br>
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
+  <summary markdown="span"><font color="blue">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper)</font> 
     
   with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
   
