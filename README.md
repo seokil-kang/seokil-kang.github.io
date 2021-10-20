@@ -2,6 +2,8 @@
 
 ### Seokil Kang
 
+I am a Ph.D. candidates in Economics at Indiana University, Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA virtual meeting.
+
 Email: sk86@iu.edu
 
 Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econometrics
