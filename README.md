@@ -8,9 +8,11 @@ Email: sk86@iu.edu
 
 Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econometrics
 
+<font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
 <br>
+<font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>
 
 ### Working Papers
 <details>
