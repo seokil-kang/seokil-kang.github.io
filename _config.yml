@@ -1,6 +1,7 @@
 title: <span style="font-variant:small-caps;"><font size="6em">Seokil Kang</font></span>
 logo: /profile.jpg
-
 theme: jekyll-theme-minimal
 minimal_mistakes_skin: "air"
-#google_analytics: <Seokil Kang>
+author:
+  mail: sk86@iu.edu
+  github: seokil-kang
