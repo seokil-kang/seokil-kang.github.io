@@ -6,7 +6,7 @@ I am a Ph.D. candidate in Economics at Indiana University Bloomington. I expect 
 
 Email: sk86@iu.edu
 
-Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayeseian Econometrics
+Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Econometrics
 
 ### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
