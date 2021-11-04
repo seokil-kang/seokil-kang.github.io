@@ -36,9 +36,10 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 [Paper (pdf)](SAMW_Seokil_Kang.pdf)
 <br>
 
-### Teaching(With full teaching responsibilities as an instructor)
-| Associate Instructor | Macroeconomics I(Master Course)                 | Spring 2021           |
-|                      | Statistical Analysis for Business and Economics | Spring 2019, 2020     |
-|                      | Intermediate Macroeconomics Theory              | Fall 2018             |
-|                      | Method of Economic Analysis                     | Spring 2018           |
-| Teaching Assistant   | Macroeconomics I(Ph.D. Course)                  | Fall 2019, 2020, 2021 |
+### Teaching
+|----------------------------------------------------------|-------------------------------------------------|-----------------------|
+| Associate Instructor<br>(full teaching responsibilities) | Macroeconomics I(Master Course)                 | Spring 2021           |
+|                                                          | Statistical Analysis for Business and Economics | Spring 2019, 2020     |
+|                                                          | Intermediate Macroeconomics Theory              | Fall 2018             |
+|                                                          | Method of Economic Analysis                     | Spring 2018           |
+| Teaching Assistant                                       | Macroeconomics I(Ph.D. Course)                  | Fall 2019, 2020, 2021 |
