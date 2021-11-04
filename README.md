@@ -49,9 +49,9 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-wk8r"></th>
-    <th class="tg-oe15">Macroeconomics I(Master Course)</th>
-    <th class="tg-oe15">Spring 2021</th>
+    <td class="tg-wk8r"></td>
+    <td class="tg-oe15">Macroeconomics I(Master Course)</td>
+    <td class="tg-oe15">Spring 2021</td>
   </tr>
 </thead>
 <tbody>
