@@ -15,14 +15,14 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="blue">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper)</font></summary>
+  <summary markdown="span"><font color="blue">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper, draft coming soon)</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
   | Successful inflation targeting requires fiscal policy to adjust the primary surplus path to meet the changes in the market value of government debt due to monetary policy shocks. In this paper, I estimate the response of primary surpluses to a monetary policy shock and examine whether such a response is present in data, as suggested by the theory of monetary-fiscal policy interaction. The U.S. data estimates capture the primary surpluses response, but with some shortage compared to what the theory prescribes. This result indicates that while the U.S. monetary policy has pinned down the price level, there is room for improvement with sufficient fiscal backing. I document that the necessity of primary surplus response to monetary policy shocks results from the dominant discount rate effect from the empirical perspective.
   
  </details>
- [Paper (pdf)](JMP_Seokil_Kang.pdf)
+ 
  <br> 
  
  <details>
