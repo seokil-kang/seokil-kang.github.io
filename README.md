@@ -43,34 +43,34 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hfk9{background-color:#000000;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-077p{background-color:#000000;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-077p" rowspan="4">Associate Instructor<br>(full teaching responsibilities)</th>
-    <th class="tg-hfk9">Macroeconomics I(Master Course)</th>
-    <th class="tg-hfk9">Spring 2021</th>
+    <th class="tg-wk8r" rowspan="4">Associate Instructor<br>(full teaching responsibilities)</th>
+    <th class="tg-oe15">Macroeconomics I(Master Course)</th>
+    <th class="tg-oe15">Spring 2021</th>
   </tr>
   <tr>
-    <th class="tg-hfk9">Statistical Analysis for Business and Economics</th>
-    <th class="tg-hfk9">Spring 2019, 2020</th>
+    <th class="tg-oe15">Statistical Analysis for Business and Economics</th>
+    <th class="tg-oe15">Spring 2019, 2020</th>
   </tr>
   <tr>
-    <th class="tg-hfk9">Intermediate Macroeconomics Theory</th>
-    <th class="tg-hfk9">Fall 2018</th>
+    <th class="tg-oe15">Intermediate Macroeconomics Theory</th>
+    <th class="tg-oe15">Fall 2018</th>
   </tr>
   <tr>
-    <th class="tg-hfk9">Method of Economic Analysis</th>
-    <th class="tg-hfk9">Spring 2018</th>
+    <th class="tg-oe15">Method of Economic Analysis</th>
+    <th class="tg-oe15">Spring 2018</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-077p">Teaching Assistant</td>
-    <td class="tg-hfk9">Macroeconomics I(Ph.D. Course)</td>
-    <td class="tg-hfk9">Fall 2019, 2020, 2021</td>
+    <td class="tg-wk8r">Teaching Assistant</td>
+    <td class="tg-oe15">Macroeconomics I(Ph.D. Course)</td>
+    <td class="tg-oe15">Fall 2019, 2020, 2021</td>
   </tr>
 </tbody>
 </table>
