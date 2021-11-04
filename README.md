@@ -49,31 +49,28 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-wk8r">Associate Instructor<br>(full teaching responsibilities)</td>
-    <td class="tg-oe15">Macroeconomics I(Master Course)</td>
-    <td class="tg-oe15">Spring 2021</td>
+    <th class="tg-wk8r" rowspan="4">Associate Instructor<br>(full teaching responsibilities)<br></th>
+    <th class="tg-oe15">Macroeconomics I(Master Course)</th>
+    <th class="tg-oe15">Spring 2021</th>
+  </tr>
+  <tr>
+    <th class="tg-oe15">Statistical Analysis for Business and Economics</th>
+    <th class="tg-oe15">Spring 2019, 2020</th>
+  </tr>
+  <tr>
+    <th class="tg-oe15">Intermediate Macroeconomics Theory</th>
+    <th class="tg-oe15">Fall 2018</th>
+  </tr>
+  <tr>
+    <th class="tg-oe15">Method of Economic Analysis</th>
+    <th class="tg-oe15">Spring 2018</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wk8r"></td>
-    <td class="tg-oe15">Statistical Analysis for Business and Economics</td>
-    <td class="tg-oe15">Spring 2019, 2020</td>
-  </tr>
-  <tr>
-    <td class="tg-wk8r"></td>
-    <td class="tg-oe15">Intermediate Macroeconomics Theory</td>
-    <td class="tg-oe15">Fall 2018</td>
-  </tr>
-  <tr>
-    <td class="tg-wk8r"></td>
-    <td class="tg-oe15">Method of Economic Analysis</td>
-    <td class="tg-oe15">Spring 2018</td>
-  </tr>
-  <tr>
-    <td class="tg-wk8r">Teaching Assistant</td>
-    <td class="tg-oe15">Macroeconomics I(Ph.D. Course)</td>
-    <td class="tg-oe15">Fall 2019, 2020, 2021</td>
+    <th class="tg-wk8r">Teaching Assistant</th>
+    <th class="tg-oe15">Macroeconomics I(Ph.D. Course)</th>
+    <th class="tg-oe15">Fall 2019, 2020, 2021</th>
   </tr>
 </tbody>
 </table>
