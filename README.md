@@ -56,12 +56,12 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wk8r">Associate Instructor</td>
+    <td class="tg-wk8r">Associate Instructor<br>(full teaching responsibilities)</td>
     <td class="tg-oe15">Statistical Analysis for Business and Economics</td>
     <td class="tg-oe15">Spring 2019, 2020</td>
   </tr>
   <tr>
-    <td class="tg-wk8r">(full teaching responsibilities)</td>
+    <td class="tg-wk8r"></td>
     <td class="tg-oe15">Intermediate Macroeconomics Theory</td>
     <td class="tg-oe15">Fall 2018</td>
   </tr>
