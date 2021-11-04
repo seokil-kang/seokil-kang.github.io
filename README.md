@@ -49,7 +49,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-wk8r" rowspan="4"><br><br><br>Associate Instructor<br>(full teaching responsibilities)<br></th>
+    <th class="tg-wk8r" rowspan="4"><br><font color="white">space</font><br>Associate Instructor<br>(full teaching responsibilities)<br></th>
     <th class="tg-oe15">Macroeconomics I(Master Course)</th>
     <th class="tg-oe15">Spring 2021</th>
   </tr>
