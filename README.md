@@ -26,14 +26,13 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
  <br> 
  
  <details>
-  <summary markdown="span"><font color="blue">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font></summary>
+  <summary markdown="span"><font color="blue">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font></summary>[Paper (pdf)](SAMW_Seokil_Kang.pdf)
     
   | **Abstract**          |
   |:---------------------------|
   | This paper introduces a simulation-based adaptive algorithm to solve a DSGE model with a large state space, namely the curse of dimensionality. It aims to generate a stationary distribution over policy space which is concentrated on the optimal policy. The key strategy is to construct a finite policy space of heuristic policies. To update the distribution over policy space, the method adopts on-line computation via iterative simulation with emphasis on rolling-horizon control to foster the speed of algorithm. Subsequently, I deliver that the algorithm achieves theoretical convergence to the optimal value function and the stationary distribution over policy space is concentrated on the optimal policy. Application to solve the simple two-period RBC model follows as a sample exercise. The result shows the performance is desirable within the feasible number of iterations and size of restricted policy space respectively.
   
  </details>
-[Paper (pdf)](SAMW_Seokil_Kang.pdf)
 <br>
 
 ### Teaching
