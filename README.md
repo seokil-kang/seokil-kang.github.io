@@ -15,7 +15,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="Brown">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper, draft coming soon)</font></summary>
+  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper, draft coming soon)</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -26,7 +26,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
  <br> 
  
  <details>
-  <summary markdown="span"><font color="Brown">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font> [Paper (pdf)](SAMW_Seokil_Kang.pdf)</summary>
+  <summary markdown="span"><font color="Purple">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font> [Paper (pdf)](SAMW_Seokil_Kang.pdf)</summary>
     
   | **Abstract**          |
   |:---------------------------|
