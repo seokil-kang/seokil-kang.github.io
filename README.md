@@ -26,7 +26,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
  <br> 
  
  <details>
-  <summary markdown="span"><font color="blue">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font></summary>[Paper (pdf)](SAMW_Seokil_Kang.pdf)
+  <summary markdown="span"><font color="blue">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font> [Paper (pdf)](SAMW_Seokil_Kang.pdf)</summary>
     
   | **Abstract**          |
   |:---------------------------|
