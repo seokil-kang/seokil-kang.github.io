@@ -15,7 +15,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper, draft coming soon)</font></summary>
+  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper) [Paper (pdf)](JMP_Seokil_Kang.pdf)</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -36,6 +36,9 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <br>
 
 ### Teaching
+<br>
+<font color="crimson"><small>&diams; Click course title to see syllabus</small></font>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
