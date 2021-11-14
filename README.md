@@ -52,7 +52,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <thead>
   <tr>
     <th class="tg-wk8r" rowspan="4"><br><br><br>Associate Instructor<br>(full teaching responsibilities)<br></th>
-    <th class="tg-oe15"> [Macroeconomics I(Master Course)](syllabus/Master_macro_syllabus.pdf) </th>
+    <th class="tg-oe15"><a href="https://seokil-kang.github.io/syllabus/Master_macro_syllabus.pdf" target="_blank">Macroeconomics I(Master Course)</a></th>
     <th class="tg-oe15">Spring 2021</th>
   </tr>
   <tr>
@@ -60,11 +60,11 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
     <th class="tg-oe15">Spring 2019, 2020</th>
   </tr>
   <tr>
-    <th class="tg-oe15"> [Intermediate Macroeconomics Theory](syllabus/intermediate_macro_syllabus.pdf) </th>
+    <th class="tg-oe15"><a href="https://seokil-kang.github.io/syllabus/intermediate_macro_syllabus.pdf" target="_blank">Intermediate Macroeconomics Theory</a></th>
     <th class="tg-oe15">Fall 2018</th>
   </tr>
   <tr>
-    <th class="tg-oe15"> [Method of Economic Analysis](syllabus/intro_econ_math_syllabus.pdf) </th>
+    <th class="tg-oe15"><a href="https://seokil-kang.github.io/syllabus/intro_econ_math_syllabus.pdf" target="_blank">Method of Economic Analysis</a></th>
     <th class="tg-oe15">Spring 2018</th>
   </tr>
 </thead>
