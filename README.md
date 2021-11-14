@@ -34,9 +34,9 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   
  </details>
 <br>
+<font color="crimson"><small>&diams; Click course title to see syllabus</small></font>
 
 ### Teaching
-<font color="crimson"><small>&diams; Click course title to see syllabus</small></font>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
