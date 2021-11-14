@@ -15,7 +15,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper) [Paper (pdf)](JMP_Seokil_Kang.pdf)</font></summary>
+  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper) </font>[Paper (pdf)](JMP_Seokil_Kang.pdf)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -52,19 +52,19 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 <thead>
   <tr>
     <th class="tg-wk8r" rowspan="4"><br><br><br>Associate Instructor<br>(full teaching responsibilities)<br></th>
-    <th class="tg-oe15">[Macroeconomics I(Master Course)](syllabus/Master_macro_syllabus.pdf)</th>
+    <th class="tg-oe15"></th>[Macroeconomics I(Master Course)](syllabus/Master_macro_syllabus.pdf)
     <th class="tg-oe15">Spring 2021</th>
   </tr>
   <tr>
-    <th class="tg-oe15">[Statistical Analysis for Business and Economics](syllabus/Intro_to_stats_syllabus.pdf)</th>
+    <th class="tg-oe15"></th>[Statistical Analysis for Business and Economics](syllabus/Intro_to_stats_syllabus.pdf)
     <th class="tg-oe15">Spring 2019, 2020</th>
   </tr>
   <tr>
-    <th class="tg-oe15">[Intermediate Macroeconomics Theory](syllabus/intermediate_macro_syllabus.pdf)</th>
+    <th class="tg-oe15"></th>[Intermediate Macroeconomics Theory](syllabus/intermediate_macro_syllabus.pdf)
     <th class="tg-oe15">Fall 2018</th>
   </tr>
   <tr>
-    <th class="tg-oe15">[Method of Economic Analysis](syllabus/intro_econ_math_syllabus.pdf)</th>
+    <th class="tg-oe15"></th>[Method of Economic Analysis](syllabus/intro_econ_math_syllabus.pdf)
     <th class="tg-oe15">Spring 2018</th>
   </tr>
 </thead>
