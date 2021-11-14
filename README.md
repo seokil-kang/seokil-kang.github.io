@@ -56,7 +56,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
     <th class="tg-oe15">Spring 2021</th>
   </tr>
   <tr>
-    <th class="tg-oe15"> [Statistical Analysis for Business and Economics](syllabus/Intro_to_stats_syllabus.pdf) </th>
+    <th class="tg-oe15"><a href="https://seokil-kang.github.io/syllabus/Intro_to_stats_syllabus.pdf" target="_blank">Statistical Analysis for Business and Economics</a></th>
     <th class="tg-oe15">Spring 2019, 2020</th>
   </tr>
   <tr>
