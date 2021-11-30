@@ -15,7 +15,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper) </font>[Paper(pdf)](JMP_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/JMP_code_git" target="_blank">Codes</a></summary>
+  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper), </font>[Paper(pdf)](JMP_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/JMP_code_git" target="_blank">Codes</a></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -26,7 +26,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
  <br> 
  
  <details>
-  <summary markdown="span"><font color="Purple">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model</font> [Paper(pdf)](SAMW_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/SAMW_for_DSGE" target="_blank">Codes</a></summary>
+  <summary markdown="span"><font color="Purple">Simulated Annealing Multiplicative Weights Algorithm for Solving a DSGE Model, </font> [Paper(pdf)](SAMW_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/SAMW_for_DSGE" target="_blank">Codes</a></summary>
     
   | **Abstract**          |
   |:---------------------------|
