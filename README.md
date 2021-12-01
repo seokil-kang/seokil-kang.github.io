@@ -74,3 +74,6 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   </tr>
 </tbody>
 </table>
+
+### Miscellaneous
+<a href="https://github.com/seokil-kang/Arellano_2008_Replicate/blob/main/Arellano_AER_2008_rep.jl" target="_blank">Julia Replication for Arellano(AER 2008)</a>
