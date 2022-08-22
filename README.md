@@ -2,9 +2,8 @@
 
 
 
-I am a Ph.D. candidate in Economics at Indiana University Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA virtual meeting.
+I am an Economist at the Bank of Korea(Research Department). I received my Ph.D. in Economics from the Indiana University Bloomington in 2022
 
-Email: sk86@iu.edu
 
 Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Econometrics
 
@@ -15,7 +14,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy (Job Market Paper), </font>[Paper(pdf)](JMP_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/JMP_code_git" target="_blank">Codes</a></summary>
+  <summary markdown="span"><font color="Purple">Quantifying the Fiscal Backing for Monetary Policy, </font>[Paper(pdf)](JMP_Seokil_Kang.pdf), <a href="https://github.com/seokil-kang/JMP_code_git" target="_blank">Codes</a></summary>
     
   | **Abstract**          |
   |:---------------------------|
