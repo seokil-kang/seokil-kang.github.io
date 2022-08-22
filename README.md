@@ -2,10 +2,13 @@
 
 
 
-I am an Economist at the Bank of Korea(Research Department). I received my Ph.D. in Economics from the Indiana University Bloomington in 2022
+I am an Economist at the Bank of Korea. I received my Ph.D. in Economics from the Indiana University Bloomington in 2022
 
 
 Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Econometrics
+
+**Disclaimer**: This site does not express the views of the Bank of Korea.
+
 
 ### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
