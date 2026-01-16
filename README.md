@@ -43,7 +43,8 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   | **Abstract**          |
   |:---------------------------|
   | This paper introduces BOK-LOOK, a large-scale, semi-structural model developed by the Bank of Korea to support its forecasting and policy analysis. Inspired by the FRB/US model, it is estimated using a fully Bayesian method to ensure robust parameter estimation and empirical consistency. The model employs a VAR-based expectations framework and polynomial adjustment cost specifications to balance theoretical coherence with empirical adaptability. The model features a detailed external sector by the inclusion of a high-resolution foreign blocks and financial synchronization channels that captures the impact of the global business and financial cycle to Korean economy. Consequently, BOK-LOOK is tailored to generate internally consistent projections for key macro variables and supports various scenario analyses. Another distinctive feature is its comprehensive treatment of financial stability concerns through the explicit incorporation of household debt and housing prices dynamics, reflecting Korea's unique economic and financial characteristics. By providing both economic forecast and counterfactual analysis capabilities, the model establishes a coherent framework for understanding macroeconomic dynamics and informing monetary policy decisions.
-  
+
+</details>
 <br>
 
 <font color="crimson"><small>&diams; Click course title to see syllabus</small></font>
