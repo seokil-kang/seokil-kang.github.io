@@ -36,7 +36,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
  </details>
 <br>
 
-### Publication
+### Policy Work
 <details>
   <summary markdown="span"><font color="Purple">BOK-LOOK: A Semi-Structural Model for Korea’s Open Economy and Monetary Policy Analysis, </font> <a href="https://www.bok.or.kr/eng/bbs/E0002902/view.do?nttId=10089590&searchCnd=1&searchKwd=&depth2=400427&depth3=400067&depth=400067&pageUnit=10&pageIndex=2&programType=newsDataEng&menuNo=600342&oldMenuNo=400067" target="_blank">Paper</a></summary>
 
