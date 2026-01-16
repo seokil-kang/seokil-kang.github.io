@@ -13,7 +13,6 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 ### [Curriculum Vitae (PDF)](CV_Kang.pdf)
 
 <br>
-<font color="crimson"><small>&diams; Click title to see abstract</small></font>
 
 ### Working Papers
 <details>
@@ -35,8 +34,6 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   | This paper introduces a simulation-based adaptive algorithm to solve a DSGE model with a large state space, namely the curse of dimensionality. It aims to generate a stationary distribution over policy space which is concentrated on the optimal policy. The key strategy is to construct a finite policy space of heuristic policies. To update the distribution over policy space, the method adopts on-line computation via iterative simulation with emphasis on rolling-horizon control to foster the speed of algorithm. Subsequently, I deliver that the algorithm achieves theoretical convergence to the optimal value function and the stationary distribution over policy space is concentrated on the optimal policy. Application to solve the simple two-period RBC model follows as a sample exercise. The result shows the performance is desirable within the feasible number of iterations and size of restricted policy space respectively.
   
  </details>
-<br>
-
 <br>
 
 ### Publication
