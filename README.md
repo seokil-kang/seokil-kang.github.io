@@ -39,8 +39,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
 ### Publication
 <details>
   <summary>
-    <font color="Purple">BOK-LOOK: A Semi-Structural Model for Korea’s Open Economy and Monetary Policy Analysis, </font> 
-    with Seungryul Jeong, Hyungbae Cho, Jinwoon Yoon, Dongjae Lee, <i>BOK Working Paper Series</i> 
+    <font color="Purple">BOK-LOOK: A Semi-Structural Model for Korea’s Open Economy and Monetary Policy Analysis, </font>      
     <a href="https://www.bok.or.kr/eng/bbs/E0002902/view.do?nttId=10089590&searchCnd=1&searchKwd=&depth2=400427&depth3=400067&depth=400067&pageUnit=10&pageIndex=2&programType=newsDataEng&menuNo=600342&oldMenuNo=400067" target="_blank">Paper</a>
   </summary>
 
@@ -50,6 +49,7 @@ Field of Interest: Macroeconomics, Monetary and fiscal policy, Bayesian Economet
   | :--- |
   | This paper introduces BOK-LOOK, a large-scale, semi-structural model developed by the Bank of Korea to support its forecasting and policy analysis. Inspired by the FRB/US model, it is estimated using a fully Bayesian method to ensure robust parameter estimation and empirical consistency. The model employs a VAR-based expectations framework and polynomial adjustment cost specifications to balance theoretical coherence with empirical adaptability. The model features a detailed external sector by the inclusion of a high-resolution foreign blocks and financial synchronization channels that captures the impact of the global business and financial cycle to Korean economy. Consequently, BOK-LOOK is tailored to generate internally consistent projections for key macro variables and supports various scenario analyses. Another distinctive feature is its comprehensive treatment of financial stability concerns through the explicit incorporation of household debt and housing prices dynamics, reflecting Korea's unique economic and financial characteristics. By providing both economic forecast and counterfactual analysis capabilities, the model establishes a coherent framework for understanding macroeconomic dynamics and informing monetary policy decisions. |
 </details>
+with Seungryul Jeong, Hyungbae Cho, Jinwoon Yoon, Dongjae Lee, <i>BOK Working Paper Series</i>
 <br>
 
 <font color="crimson"><small>&diams; Click course title to see syllabus</small></font>
